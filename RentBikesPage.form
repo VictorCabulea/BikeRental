@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="RentBikesPage">
+  <grid id="27dc6" binding="Main" layout-manager="GridLayoutManager" row-count="26" column-count="5" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="848" height="1814"/>
+    </constraints>
+    <properties>
+      <font size="20" style="3"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="ca02" class="javax.swing.JTextPane" binding="a15ElectricBike29TextPane" default-binding="true">
+        <constraints>
+          <grid row="15" column="3" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="5" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="190" height="40"/>
+            <preferred-size width="190" height="40"/>
+            <maximum-size width="190" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value="15. Electric Bike - 29 inch"/>
+        </properties>
+      </component>
+      <component id="ad4b7" class="javax.swing.JTextPane" binding="a14ElectricBike27TextPane" default-binding="true">
+        <constraints>
+          <grid row="14" column="3" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="5" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="190" height="40"/>
+            <preferred-size width="190" height="40"/>
+            <maximum-size width="190" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value="14. Electric Bike - 27 inch"/>
+        </properties>
+      </component>
+      <component id="aef3c" class="javax.swing.JTextPane" binding="a13ElectricBike27TextPane" default-binding="true">
+        <constraints>
+          <grid row="13" column="3" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="5" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="190" height="40"/>
+            <preferred-size width="190" height="40"/>
+            <maximum-size width="190" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value="13. Electric Bike - 27 inch"/>
+        </properties>
+      </component>
+      <component id="39dd9" class="javax.swing.JTextPane" binding="a12ElectricBike26TextPane" default-binding="true">
+        <constraints>
+          <grid row="12" column="3" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="5" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="190" height="40"/>
+            <preferred-size width="190" height="40"/>
+            <maximum-size width="190" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value="12. Electric Bike - 26 inch"/>
+        </properties>
+      </component>
+      <component id="d3711" class="javax.swing.JTextPane" binding="a11ElectricBike26TextPane" default-binding="true">
+        <constraints>
+          <grid row="11" column="3" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="5" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="190" height="40"/>
+            <preferred-size width="190" height="40"/>
+            <maximum-size width="190" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value="11. Electric Bike - 26 inch"/>
+        </properties>
+      </component>
+      <component id="d3937" class="javax.swing.JTextPane" binding="a10ElectricBike24TextPane" default-binding="true">
+        <constraints>
+          <grid row="10" column="3" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="5" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="190" height="40"/>
+            <preferred-size width="190" height="40"/>
+            <maximum-size width="190" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value="10. Electric Bike - 24 inch"/>
+        </properties>
+      </component>
+      <component id="f62cc" class="javax.swing.JTextPane" binding="a9ElectricBike24TextPane" default-binding="true">
+        <constraints>
+          <grid row="9" column="3" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="5" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="190" height="40"/>
+            <preferred-size width="190" height="40"/>
+            <maximum-size width="190" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value=" 9. Electric Bike - 24 inch"/>
+        </properties>
+      </component>
+      <component id="9b492" class="javax.swing.JTextPane" binding="a8MountainBike29TextPane" default-binding="true">
+        <constraints>
+          <grid row="8" column="3" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="5" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="190" height="40"/>
+            <preferred-size width="190" height="40"/>
+            <maximum-size width="190" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value=" 8. Mountain Bike - 29 inch"/>
+        </properties>
+      </component>
+      <component id="2992b" class="javax.swing.JTextPane" binding="a7MountainBike29TextPane" default-binding="true">
+        <constraints>
+          <grid row="7" column="3" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="5" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="190" height="40"/>
+            <preferred-size width="190" height="40"/>
+            <maximum-size width="190" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value=" 7. Mountain Bike - 29 inch"/>
+        </properties>
+      </component>
+      <component id="e1238" class="javax.swing.JTextPane" binding="a6MountainBike27TextPane" default-binding="true">
+        <constraints>
+          <grid row="6" column="3" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="5" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="190" height="40"/>
+            <preferred-size width="190" height="40"/>
+            <maximum-size width="190" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value=" 6. Mountain Bike - 27 inch"/>
+        </properties>
+      </component>
+      <component id="a1054" class="javax.swing.JTextPane" binding="a5MountainBike27TextPane" default-binding="true">
+        <constraints>
+          <grid row="5" column="3" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="5" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="190" height="40"/>
+            <preferred-size width="190" height="40"/>
+            <maximum-size width="190" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value=" 5. Mountain Bike - 27 inch"/>
+        </properties>
+      </component>
+      <component id="c6e25" class="javax.swing.JTextPane" binding="a4MountainBike26TextPane" default-binding="true">
+        <constraints>
+          <grid row="4" column="3" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="5" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="190" height="40"/>
+            <preferred-size width="190" height="40"/>
+            <maximum-size width="190" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value=" 4. Mountain Bike - 26 inch"/>
+        </properties>
+      </component>
+      <component id="7f86f" class="javax.swing.JTextPane" binding="a3MountainBike26TextPane" default-binding="true">
+        <constraints>
+          <grid row="3" column="3" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="5" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="190" height="40"/>
+            <preferred-size width="190" height="40"/>
+            <maximum-size width="190" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value=" 3. Mountain Bike - 26 inch"/>
+        </properties>
+      </component>
+      <component id="8a743" class="javax.swing.JTextPane" binding="a2MountainBike24TextPane" default-binding="true">
+        <constraints>
+          <grid row="2" column="3" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="5" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="190" height="40"/>
+            <preferred-size width="190" height="40"/>
+            <maximum-size width="190" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value=" 2. Mountain Bike - 24 inch"/>
+        </properties>
+      </component>
+      <component id="5a06f" class="javax.swing.JTextPane" binding="a1MountainBike24TextPane" default-binding="true">
+        <constraints>
+          <grid row="1" column="3" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="5" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="190" height="40"/>
+            <preferred-size width="190" height="40"/>
+            <maximum-size width="190" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value=" 1. Mountain Bike - 24 inch"/>
+        </properties>
+      </component>
+      <component id="90a3b" class="javax.swing.JLabel" binding="TitleLabel">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="5" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font size="30" style="1"/>
+          <text value="Rental Registration"/>
+        </properties>
+      </component>
+      <scrollpane id="561fc" binding="rentalsTable">
+        <constraints>
+          <grid row="1" column="2" row-span="12" col-span="1" vsize-policy="7" hsize-policy="7" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <component id="15c47" class="javax.swing.JTable" binding="table">
+            <constraints/>
+            <properties/>
+          </component>
+        </children>
+      </scrollpane>
+      <component id="41242" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="1" column="0" row-span="2" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font size="22" style="1"/>
+          <text value="Client ID"/>
+        </properties>
+      </component>
+      <component id="81844" class="javax.swing.JTextField" binding="textClientID">
+        <constraints>
+          <grid row="1" column="1" row-span="2" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="20" style="3"/>
+        </properties>
+      </component>
+      <component id="55107" class="javax.swing.JTextPane" binding="a16ElectricBike29TextPane" default-binding="true">
+        <constraints>
+          <grid row="16" column="3" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="5" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="190" height="40"/>
+            <preferred-size width="190" height="40"/>
+            <maximum-size width="190" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value="16. Electric Bike - 29 inch"/>
+        </properties>
+      </component>
+      <component id="5b029" class="javax.swing.JTextPane" binding="a17DirtBike24TextPane" default-binding="true">
+        <constraints>
+          <grid row="1" column="4" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="5" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="190" height="40"/>
+            <preferred-size width="190" height="40"/>
+            <maximum-size width="190" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value="17. Dirt Bike - 24 inch"/>
+        </properties>
+      </component>
+      <component id="3bca1" class="javax.swing.JTextPane" binding="a18DirtBike24TextPane" default-binding="true">
+        <constraints>
+          <grid row="2" column="4" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="5" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="190" height="40"/>
+            <preferred-size width="190" height="40"/>
+            <maximum-size width="190" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value="18. Dirt Bike - 24 inch"/>
+        </properties>
+      </component>
+      <component id="a10e9" class="javax.swing.JTextPane" binding="a19DirtBike26TextPane" default-binding="true">
+        <constraints>
+          <grid row="3" column="4" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="5" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="190" height="40"/>
+            <preferred-size width="190" height="40"/>
+            <maximum-size width="190" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value="19. Dirt Bike - 26 inch"/>
+        </properties>
+      </component>
+      <component id="36eb3" class="javax.swing.JTextPane" binding="a20DirtBike26TextPane" default-binding="true">
+        <constraints>
+          <grid row="4" column="4" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="5" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="190" height="40"/>
+            <preferred-size width="190" height="40"/>
+            <maximum-size width="190" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value="20. Dirt Bike - 26 inch"/>
+        </properties>
+      </component>
+      <component id="2bb4b" class="javax.swing.JTextPane" binding="a21DirtBike27TextPane" default-binding="true">
+        <constraints>
+          <grid row="5" column="4" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="5" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="190" height="40"/>
+            <preferred-size width="190" height="40"/>
+            <maximum-size width="190" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value="21. Dirt Bike - 27 inch"/>
+        </properties>
+      </component>
+      <component id="67579" class="javax.swing.JTextPane" binding="a22DirtBike27TextPane" default-binding="true">
+        <constraints>
+          <grid row="6" column="4" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="5" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="190" height="40"/>
+            <preferred-size width="190" height="40"/>
+            <maximum-size width="190" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value="22. Dirt Bike - 27 inch"/>
+        </properties>
+      </component>
+      <component id="c4ccc" class="javax.swing.JTextPane" binding="a23DirtBike29TextPane" default-binding="true">
+        <constraints>
+          <grid row="7" column="4" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="5" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="190" height="40"/>
+            <preferred-size width="190" height="40"/>
+            <maximum-size width="190" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value="23. Dirt Bike - 29 inch"/>
+        </properties>
+      </component>
+      <component id="768f9" class="javax.swing.JTextPane" binding="a24DirtBike29TextPane" default-binding="true">
+        <constraints>
+          <grid row="8" column="4" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="5" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="190" height="40"/>
+            <preferred-size width="190" height="40"/>
+            <maximum-size width="190" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value="24. Dirt Bike - 29 inch "/>
+        </properties>
+      </component>
+      <component id="512d1" class="javax.swing.JTextPane" binding="a25CityBike24TextPane" default-binding="true">
+        <constraints>
+          <grid row="9" column="4" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="5" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="190" height="40"/>
+            <preferred-size width="190" height="40"/>
+            <maximum-size width="190" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value="25. City Bike - 24 inch"/>
+        </properties>
+      </component>
+      <component id="8d308" class="javax.swing.JTextPane" binding="a26CityBike24TextPane" default-binding="true">
+        <constraints>
+          <grid row="10" column="4" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="5" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="190" height="40"/>
+            <preferred-size width="190" height="40"/>
+            <maximum-size width="190" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value="26. City Bike - 24 inch"/>
+        </properties>
+      </component>
+      <component id="6664a" class="javax.swing.JTextPane" binding="a27CityBike26TextPane" default-binding="true">
+        <constraints>
+          <grid row="11" column="4" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="5" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="190" height="40"/>
+            <preferred-size width="190" height="40"/>
+            <maximum-size width="190" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value="27. City Bike - 26 inch"/>
+        </properties>
+      </component>
+      <component id="d175f" class="javax.swing.JTextPane" binding="a28CityBike26TextPane" default-binding="true">
+        <constraints>
+          <grid row="12" column="4" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="5" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="190" height="40"/>
+            <preferred-size width="190" height="40"/>
+            <maximum-size width="190" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value="28. City Bike - 26 inch"/>
+        </properties>
+      </component>
+      <component id="84b3e" class="javax.swing.JTextPane" binding="a29CityBike27TextPane" default-binding="true">
+        <constraints>
+          <grid row="13" column="4" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="5" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="190" height="40"/>
+            <preferred-size width="190" height="40"/>
+            <maximum-size width="190" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value="29. City Bike - 27 inch"/>
+        </properties>
+      </component>
+      <component id="1d6b3" class="javax.swing.JTextPane" binding="a30CityBike27TextPane" default-binding="true">
+        <constraints>
+          <grid row="14" column="4" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="5" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="190" height="40"/>
+            <preferred-size width="190" height="40"/>
+            <maximum-size width="190" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value="30. City Bike - 27 inch"/>
+        </properties>
+      </component>
+      <component id="1963c" class="javax.swing.JTextPane" binding="a31CityBike29TextPane" default-binding="true">
+        <constraints>
+          <grid row="15" column="4" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="5" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="190" height="40"/>
+            <preferred-size width="190" height="40"/>
+            <maximum-size width="190" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value="31. City Bike - 29 inch"/>
+        </properties>
+      </component>
+      <component id="94d70" class="javax.swing.JTextPane" binding="a32CityBike29TextPane" default-binding="true">
+        <constraints>
+          <grid row="16" column="4" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="5" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="190" height="40"/>
+            <preferred-size width="190" height="40"/>
+            <maximum-size width="190" height="40"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value="32. City Bike - 29 inch"/>
+        </properties>
+      </component>
+      <component id="1bf2c" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="3" column="0" row-span="2" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font size="22" style="1"/>
+          <text value="Bike ID"/>
+        </properties>
+      </component>
+      <component id="b6449" class="javax.swing.JTextField" binding="textRentalDate">
+        <constraints>
+          <grid row="3" column="1" row-span="2" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="20" style="3"/>
+        </properties>
+      </component>
+      <component id="8ab98" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="5" column="0" row-span="2" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font size="22" style="1"/>
+          <text value="Rental Date"/>
+        </properties>
+      </component>
+      <component id="4ea3d" class="javax.swing.JTextField" binding="textBikeID">
+        <constraints>
+          <grid row="5" column="1" row-span="2" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="20" style="3"/>
+        </properties>
+      </component>
+      <component id="45710" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="7" column="0" row-span="2" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font size="22" style="1"/>
+          <text value="Return Date"/>
+        </properties>
+      </component>
+      <component id="fad34" class="javax.swing.JTextField" binding="textReturnDate">
+        <constraints>
+          <grid row="7" column="1" row-span="2" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="20" style="3"/>
+        </properties>
+      </component>
+      <component id="3f387" class="javax.swing.JButton" binding="saveNewRentalButton" default-binding="true">
+        <constraints>
+          <grid row="9" column="0" row-span="2" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font size="22" style="1"/>
+          <foreground color="-16777216"/>
+          <text value="Save New Rental"/>
+        </properties>
+      </component>
+      <component id="c5d52" class="javax.swing.JButton" binding="updateRentalButton" default-binding="true">
+        <constraints>
+          <grid row="11" column="0" row-span="2" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font size="22" style="1"/>
+          <foreground color="-16777216"/>
+          <text value="Update Rental"/>
+        </properties>
+      </component>
+      <component id="b24af" class="javax.swing.JButton" binding="searchButton">
+        <constraints>
+          <grid row="13" column="0" row-span="2" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font size="22" style="1"/>
+          <foreground color="-16777216"/>
+          <text value="Search Rental By ID"/>
+        </properties>
+      </component>
+      <component id="ba050" class="javax.swing.JButton" binding="deleteRentalButton" default-binding="true">
+        <constraints>
+          <grid row="15" column="0" row-span="2" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font size="22" style="1"/>
+          <foreground color="-16777216"/>
+          <text value="Delete Rental"/>
+        </properties>
+      </component>
+      <component id="9e976" class="javax.swing.JTextField" binding="textID">
+        <constraints>
+          <grid row="13" column="2" row-span="2" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="22" style="3"/>
+          <foreground color="-16777216"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

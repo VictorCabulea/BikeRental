@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="StartPage">
+  <grid id="27dc6" binding="Main" layout-manager="GridLayoutManager" row-count="2" column-count="3" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="15" y="70" width="767" height="181"/>
+    </constraints>
+    <properties>
+      <background color="-768"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="90354" class="javax.swing.JButton" binding="viewBikesButton" default-binding="true">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font size="22"/>
+          <foreground color="-16777216"/>
+          <text value="View Bikes"/>
+        </properties>
+      </component>
+      <component id="c7e8" class="javax.swing.JTextField" binding="bikeRentalRentYourTextField" default-binding="true">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="3" vsize-policy="0" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-28904"/>
+          <editable value="false"/>
+          <font size="32" style="1"/>
+          <foreground color="-16777216"/>
+          <text value="Bike Rental - Rent Your Bike Now"/>
+        </properties>
+      </component>
+      <component id="c2eb9" class="javax.swing.JButton" binding="rentABikeButton" default-binding="true">
+        <constraints>
+          <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font size="22"/>
+          <foreground color="-16777216"/>
+          <text value="Rent A Bike"/>
+        </properties>
+      </component>
+      <component id="72607" class="javax.swing.JButton" binding="createAnAcountButton" default-binding="true">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font size="22"/>
+          <foreground color="-16777216"/>
+          <text value="Create An Acount"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
